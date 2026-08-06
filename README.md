@@ -23,7 +23,7 @@ One lucky winner will receive a general admission pass to attend GitHub Universe
 - Access to exclusive merch at The GitHub Shop
 
 ## How to enter:
-1. Visit our [sweepstakes entry page](https://forms.cloud.microsoft/r/EEDmL9XSAM)
+1. Visit our [sweepstakes entry page](https://forms.cloud.microsoft/r/Hvv9WvQJwJ)
 2. Complete the registration form
 3. Cross your fingers!
 
@@ -57,7 +57,7 @@ HOW TO ENTER
 
 No Purchase Necessary. 
 
-You will receive one (1) entry by visiting the website for the Sweepstakes at https://forms.cloud.microsoft/r/EEDmL9XSAM and completing all of the registration requirements. All required registration information must be provided to be eligible for entry.
+You will receive one (1) entry by visiting the website for the Sweepstakes at https://forms.cloud.microsoft/r/Hvv9WvQJwJ and completing all of the registration requirements. All required registration information must be provided to be eligible for entry.
 
 The entry limit is one (1) per person overall.
 
