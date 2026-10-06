@@ -119,7 +119,7 @@ Send an email to angriff@microsoft.com with the subject line “GitHub Universe 
 
 ## Winner Selection
 
-Winner will be announced live via post at https://x.com/githubcommunity on October 6, 2026 at 9:00 AM ET.
+![Congratulations @alangandy, winner of a free in-person ticket to GitHub Universe 2026](assets/universe-winner.png)
 
 ## Register for a free virtual entry
 
