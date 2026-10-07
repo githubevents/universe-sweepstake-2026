@@ -119,7 +119,7 @@ Send an email to angriff@microsoft.com with the subject line “GitHub Universe 
 
 ## Winner Selection
 
-![Congratulations @alangandy, winner of a free in-person ticket to GitHub Universe 2026](assets/universe-winner.png)
+![Congratulations @KharmaIzReal, winner of a free in-person ticket to GitHub Universe 2026](assets/universe-winner.png)
 
 ## Register for a free virtual entry
 
